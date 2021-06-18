@@ -1,1 +1,1 @@
-## Experiment name
+## Simultaneous estimation method for multicomponent samples: Principle of additivity of absorbance
