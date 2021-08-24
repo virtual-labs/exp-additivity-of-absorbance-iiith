@@ -1,4 +1,4 @@
-**Pre-Experiment**
+**Pre-Assignments**
 
 1. Under which conditions does the Beer-Lambert law become additive?  
 2. If absorbance of two components is 0.80 at an isosbestic point wavelength, what is the ratio of individual component’s absorbance values at that wavelength?  
@@ -7,7 +7,7 @@
 5. Is this multicomponent sample analysis principle applicable to any pair of light absorbing samples?  
 
 
-**Post-Experiment**
+**Post-Assignments**
 
 1. Determine two isosbestic points for coumarin 343 and coumarin 6.  
 2. Why was it necessary to determine the molar absorptivities of a substance at two different wavelengths?  
