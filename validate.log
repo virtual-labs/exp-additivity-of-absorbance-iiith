@@ -1,0 +1,11 @@
+{
+  _: [],
+  f: [
+    '/home/runner/work/exp-additivity-of-absorbance-iiith/exp-additivity-of-absorbance-iiith/experiment-descriptor.json'
+  ],
+  files: [
+    '/home/runner/work/exp-additivity-of-absorbance-iiith/exp-additivity-of-absorbance-iiith/experiment-descriptor.json'
+  ],
+  '$0': 'validate'
+}
+Validated true
